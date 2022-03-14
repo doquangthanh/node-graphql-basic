@@ -1,0 +1,9 @@
+node_modules
+.vscode
+.gitignore
+Dockerfile
+docker-compose.yml
+dist
+*.yaml
+helm
+database
